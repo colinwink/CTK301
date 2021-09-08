@@ -1,0 +1,44 @@
+h1 {
+  color: #FFFFFF;
+  background-color: #ff0000;
+}
+
+h2 {
+  color: #ff0000;
+}
+
+h3 {
+  color: #ff0000;
+}
+
+.divclass {
+  color: #FFFFFF;
+  background-color: #ff0000;
+}
+#specialid {
+  color: #00FF00;
+  background-color: #000000;
+}
+
+.spanstyle {
+  color: #ff0000;
+}
+
+.specialp {
+  color: #00FF00;
+  background-color: #FFFFFF;
+}
+
+a {
+  color: #ff0000;
+  text-decoration: none;
+}
+
+a:visited {
+ color: #00ff00;
+}
+
+a:hover {
+ color: #ffff00;
+ text-decoration: underline;
+}
