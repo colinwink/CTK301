@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+
+  background-image: url(images/ISU4.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.centered {
+  text-align: center;
+}
+
+header {
+  color: #FFA500;
+  font-style: italic;
+  font-weight: normal;
+}
+
+.imgbox {
+  border: 6px solid #000000;
+  padding: 4px;
+}
+
+p {
+  text-align: justify;
+  text-justify: inter-word;
+}
