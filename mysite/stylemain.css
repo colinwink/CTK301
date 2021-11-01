@@ -44,6 +44,8 @@ nav li a {
   text-decoration: none;
   text-align: center;
   font-family: Helvetica, sans-serif;
+  transition: background-color 1.0s;
+  
 }
 
 nav li a:hover {
