@@ -17,7 +17,7 @@ header a {
   font-size: 60px;
   text-align: center;
   text-decoration: none;
-  transition: background-color 1.0s;
+  transition: color 0.5s;
 }
 
 header a:hover {
@@ -97,7 +97,7 @@ nav li a {
   text-decoration: none;
   text-align: center;
   font-family: Helvetica, sans-serif;
-  transition: background-color 1.0s;
+  transition: background-color 0.5s;
 }
 
 nav li a:hover {
